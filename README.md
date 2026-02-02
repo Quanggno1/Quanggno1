@@ -6,18 +6,7 @@
 ## 🆔 Mã sinh viên
 - **2451271152**
 
-## 🏫 Lớp
-- **66ANM1**
-
----
-
-## 📚 Giới thiệu
-Repository này được sử dụng để lưu trữ các bài tập, đồ án và tài liệu học tập trong quá trình học tập tại trường.  
-Nội dung có thể bao gồm:
-- Bài tập lập trình
-- Bài thực hành
-- Tài liệu học tập
-- Đồ án môn học
+## 🏫 Trường đại học Thủy Lợi- 🏫Lớp **66ANM1**
 
 ---
 
