@@ -1,16 +1,34 @@
-## Hi there 👋
+# 📌 Thông tin sinh viên
 
-<!--
-**Quanggno1/Quanggno1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 Họ và tên
+- **Nguyễn Sỹ Quang**
 
-Here are some ideas to get you started:
+## 🆔 Mã sinh viên
+- **2451271152**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏫 Lớp
+- **66ANM1**
+
+---
+
+## 📚 Giới thiệu
+Repository này được sử dụng để lưu trữ các bài tập, đồ án và tài liệu học tập trong quá trình học tập tại trường.  
+Nội dung có thể bao gồm:
+- Bài tập lập trình
+- Bài thực hành
+- Tài liệu học tập
+- Đồ án môn học
+
+---
+
+## 🛠 Công nghệ sử dụng
+- C / C++
+- SQL
+- Git & GitHub
+
+---
+
+## 📬 Liên hệ
+Nếu có vấn đề hoặc cần trao đổi, vui lòng liên hệ trực tiếp qua GitHub.
+
+✨ *Cảm ơn bạn đã ghé thăm repository!* ✨
