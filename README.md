@@ -14,8 +14,8 @@
 - C / C++
 - SQL
 - Git & GitHub
-- 
 -HTML
+
 ---
 
 ## 📬 Liên hệ
